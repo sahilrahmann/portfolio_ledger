@@ -1,0 +1,6 @@
+ffn
+matplotlib
+numpy
+pandas
+pandas_datareader
+seaborn
